@@ -134,10 +134,10 @@ border: 2px solid #000000;
 
 .tooltip-content img {
 	position: relative;
-	height: 180px;
-	width: 180px
+	height: 160px;
+	width: 160px;
 	display: block;
-	float: left;
+	float: right;
 	margin: 0.5em;
 }
 
